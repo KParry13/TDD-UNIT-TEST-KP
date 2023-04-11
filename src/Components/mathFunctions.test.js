@@ -42,7 +42,4 @@ describe("Math Functions", () => {
     })
   });
 
-
-
-
 });
